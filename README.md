@@ -3,5 +3,5 @@ Some textbooks and reference books I used in my engineering course in Computer S
 
 ### 7th Semester
 <ol>
-<li><a href="">Information Retrieval: Implementing and Evaluating Search Engines- Buttcher, Clarke, Cormack</a></li>
+<li><a href="https://github.com/Shashwat4K/Textbooks-and-study-material/blob/master/IR-Stefan-Cormack.pdf">Information Retrieval: Implementing and Evaluating Search Engines- Buttcher, Clarke, Cormack</a></li>
 </ol>
